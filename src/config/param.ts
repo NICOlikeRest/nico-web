@@ -13,7 +13,7 @@ export const SITE = {
   description: '记录 Arvin 的不枯燥生活',
   profileContent: '我是NICO，浙江杭州人，我很喜欢前端开发。',
   keywords: 'Arvin, Blog, 前端, Vue, 博客',
-  coordinate: [118.888175, 32.048268],
+  coordinate: [120.150000, 30.310000],
   icon: 'https://cdn.jsdelivr.net/gh/pinky-pig/pic-bed/imageslogo.svg',
   pic: 'https://cdn.fliggy.coblogPagem/upic/2XFNGI.png',
   cv: 'https://cv.mmeme.me/',
@@ -42,8 +42,8 @@ export const bentoCommonComponentsCfg = [
   { id: 'CountDown', x: 3, y: 1, width: 2, height: 1, index: 0 },
   // { id: 'Twitter', x: 4, y: 1, width: 1, height: 1, index: 0 },
   { id: 'PlaneView', x: 0, y: 2, width: 1, height: 2, index: 0 },
-  { id: 'DragMotion', x: 3, y: 2, width: 1, height: 1, index: 0 },
-  { id: 'Notion', x: 3, y: 2, width: 1, height: 1, index: 0 },
+  // { id: 'DragMotion', x: 3, y: 2, width: 1, height: 1, index: 0 },
+  // { id: 'Notion', x: 3, y: 2, width: 1, height: 1, index: 0 },
   { id: 'PageTransition', x: 4, y: 2, width: 1, height: 1, index: 0 },
 ]
 
@@ -51,9 +51,9 @@ export const bentoCommonComponentsCfg = [
  * 首页 Bento 自定义组件布局
  */
 export const bentoCustomComponentsCfg = [
-  { id: 'StrokeText', x: 2, y: 2, width: 1, height: 1, index: 0 },
-  { id: 'Sticker8', x: 3, y: 3, width: 1, height: 1, index: 0 },
-  { id: 'Cover', x: 0, y: 2, width: 1, height: 2, index: 0 },
+  // { id: 'StrokeText', x: 2, y: 2, width: 1, height: 1, index: 0 },
+  // { id: 'Sticker8', x: 3, y: 3, width: 1, height: 1, index: 0 },
+  // { id: 'Cover', x: 0, y: 2, width: 1, height: 2, index: 0 },
 ]
 
 /**
